@@ -1,0 +1,249 @@
+my-repo/
+   index.html
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2025 Best Electronics & Gadgets | Amazon Picks</title>
+
+    <style>
+        body { font-family: Arial, sans-serif; background: #f5f5f5; margin: 0; padding: 0; }
+        header { background: #232f3e; color: white; text-align: center; padding: 40px 20px; }
+        .products { display: flex; flex-wrap: wrap; justify-content: center; padding: 20px; }
+        .card {
+            width: 280px; background: white; margin: 15px; padding: 15px;
+            border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); text-align: center;
+        }
+        .card img { width: 100%; border-radius: 10px; }
+        .card h2 { font-size: 18px; margin: 10px 0; }
+        .card p { font-size: 14px; color: #444; min-height: 60px; }
+        .card a {
+            background: #ff9900; color: white; padding: 10px 20px; display: inline-block;
+            border-radius: 5px; text-decoration: none; font-weight: bold;
+        }
+        .card a:hover { background: #cc7a00; }
+        footer {
+            background: #232f3e; color: white; padding: 20px;
+            text-align: center; margin-top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>🔥 Top Electronics & Gadget Deals 2025</h1>
+    <p>Discover trending tech — headphones, smart devices, accessories & more.</p>
+</header>
+
+<section class="products">
+
+<!-- PRODUCT 1 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Bluetooth+Earbuds">
+    <h2>Wireless Bluetooth Earbuds</h2>
+    <p>Noise-canceling earbuds with HD sound and long battery life.</p>
+    <a href="YOUR_AFF_LINK" target="_blank">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 2 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Smartwatch">
+    <h2>Smartwatch Fitness Tracker</h2>
+    <p>Tracks heart rate, sleep, steps and more.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 3 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Powerbank">
+    <h2>Portable Power Bank 20,000mAh</h2>
+    <p>Fast charging USB-C power bank.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 4 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Camera">
+    <h2>Smart Home Security Camera</h2>
+    <p>1080p motion detection night vision camera.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 5 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Speaker">
+    <h2>Bluetooth Portable Speaker</h2>
+    <p>Deep bass, waterproof design.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 6 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Action+Cam">
+    <h2>4K Action Camera</h2>
+    <p>Waterproof sports camera with 4K video.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 7 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=USB-C+Hub">
+    <h2>USB-C Charging Hub</h2>
+    <p>Multi-port fast-charging station.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 8 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Gaming+Headset">
+    <h2>Gaming Headset With Mic</h2>
+    <p>Surround sound with noise-isolating microphone.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 9 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Drone">
+    <h2>Full HD Camera Drone</h2>
+    <p>Easy-to-fly with stability sensors.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 10 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Ring+Light">
+    <h2>LED Ring Light</h2>
+    <p>Perfect for content creators.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 11 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Noise+Canceling">
+    <h2>Noise-Canceling Headphones</h2>
+    <p>Deep bass premium audio.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 12 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Smart+Plug">
+    <h2>Smart Wi-Fi Plug</h2>
+    <p>Control devices remotely.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 13 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Car+Mount">
+    <h2>Magnetic Car Phone Mount</h2>
+    <p>Strong grip & 360° rotation.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 14 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Wireless+Charger">
+    <h2>Wireless Fast Charging Pad</h2>
+    <p>Quick charge compatible.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 15 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Projector">
+    <h2>Mini Portable Projector</h2>
+    <p>Home cinema mini projector.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 16 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Cooling+Pad">
+    <h2>Laptop Cooling Pad</h2>
+    <p>Triple fan heat reduction.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 17 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=USB+Mic">
+    <h2>USB Condenser Microphone</h2>
+    <p>Studio-quality voice recording.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 18 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=VR+Headset">
+    <h2>Virtual Reality Headset</h2>
+    <p>3D immersive gaming experience.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 19 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Keyboard">
+    <h2>Bluetooth Keyboard</h2>
+    <p>Compact & long battery life.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 20 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=SSD">
+    <h2>Portable SSD Drive</h2>
+    <p>Super fast file transfers.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 21 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Smart+Bulb">
+    <h2>Smart LED Color Bulbs</h2>
+    <p>Works with Alexa & Google.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 22 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Tablet+Stand">
+    <h2>Adjustable Tablet Stand</h2>
+    <p>Perfect for iPad or Kindle.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 23 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Dash+Cam">
+    <h2>Dash Cam 1080p</h2>
+    <p>Wide-angle night vision.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 24 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Smart+Scale">
+    <h2>Smart Body Scale</h2>
+    <p>Tracks BMI, water %, muscle.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+<!-- PRODUCT 25 -->
+<div class="card">
+    <img src="https://via.placeholder.com/280?text=Desk+Fan">
+    <h2>USB Desk Fan</h2>
+    <p>Quiet strong airflow.</p>
+    <a href="YOUR_AFF_LINK">Buy on Amazon</a>
+</div>
+
+</section>
+
+<footer>
+    <p>© 2025 TechGadgetStore | Amazon Affiliate Partner</p>
+</footer>
+
+</body>
+</html>
